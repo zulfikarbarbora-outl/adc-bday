@@ -1,0 +1,716 @@
+{
+  "fileCount": 71,
+  "files": [
+    {
+      "filename": "bigchime1.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 41,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "bigchime2.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 41,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "bigchime3.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 41,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "bigchime4.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 41,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "bigchime5.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 41,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "bigchime1.opus",
+      "note": 33,
+      "loNote": 41,
+      "hiNote": 62,
+      "rootNote": 33,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "bigchime5.opus",
+      "note": 47,
+      "loNote": 41,
+      "hiNote": 62,
+      "rootNote": 47,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_01s.opus",
+      "note": 64,
+      "loNote": 63,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_01h.opus",
+      "note": 64,
+      "loNote": 63,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_03s.opus",
+      "note": 66,
+      "loNote": 65,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_03h.opus",
+      "note": 66,
+      "loNote": 65,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_04s.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_04h.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 68,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_05s.opus",
+      "note": 68,
+      "loNote": 69,
+      "hiNote": 70,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_05h.opus",
+      "note": 68,
+      "loNote": 69,
+      "hiNote": 70,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_06s.opus",
+      "note": 69,
+      "loNote": 71,
+      "hiNote": 72,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_06h.opus",
+      "note": 69,
+      "loNote": 71,
+      "hiNote": 72,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_08s.opus",
+      "note": 72,
+      "loNote": 73,
+      "hiNote": 74,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_08h.opus",
+      "note": 72,
+      "loNote": 73,
+      "hiNote": 74,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_08s.opus",
+      "note": 72,
+      "loNote": 75,
+      "hiNote": 76,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_09h.opus",
+      "note": 74,
+      "loNote": 75,
+      "hiNote": 76,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_11s.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_11h.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 78,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_12s.opus",
+      "note": 78,
+      "loNote": 79,
+      "hiNote": 80,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_12h.opus",
+      "note": 78,
+      "loNote": 79,
+      "hiNote": 80,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_14s.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 82,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_14h.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 82,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_15s.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 84,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_15h.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 84,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "wind_chime_ascending_slow.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 90,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "wind_chime_ascending_normal.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 90,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "wind_chime_ascending_fast.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 90,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "wind_chime_descending_slow.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 90,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "wind_chime_descending_normal.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 90,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "wind_chime_descending_fast.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 90,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_01s.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_01h.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_02s.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_02h.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_03s.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_03h.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_04s.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_04h.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_05s.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_05h.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_06s.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_06h.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_07s.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_07h.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_08s.opus",
+      "note": 98,
+      "loNote": 98,
+      "hiNote": 98,
+      "rootNote": 98,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_08h.opus",
+      "note": 98,
+      "loNote": 98,
+      "hiNote": 98,
+      "rootNote": 98,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_09s.opus",
+      "note": 99,
+      "loNote": 99,
+      "hiNote": 99,
+      "rootNote": 99,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_09h.opus",
+      "note": 99,
+      "loNote": 99,
+      "hiNote": 99,
+      "rootNote": 99,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_10s.opus",
+      "note": 100,
+      "loNote": 100,
+      "hiNote": 100,
+      "rootNote": 100,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_10h.opus",
+      "note": 100,
+      "loNote": 100,
+      "hiNote": 100,
+      "rootNote": 100,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_11s.opus",
+      "note": 101,
+      "loNote": 101,
+      "hiNote": 101,
+      "rootNote": 101,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_11h.opus",
+      "note": 101,
+      "loNote": 101,
+      "hiNote": 101,
+      "rootNote": 101,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_12s.opus",
+      "note": 102,
+      "loNote": 102,
+      "hiNote": 102,
+      "rootNote": 102,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_12h.opus",
+      "note": 102,
+      "loNote": 102,
+      "hiNote": 102,
+      "rootNote": 102,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_13s.opus",
+      "note": 103,
+      "loNote": 103,
+      "hiNote": 103,
+      "rootNote": 103,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_13h.opus",
+      "note": 103,
+      "loNote": 103,
+      "hiNote": 103,
+      "rootNote": 103,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_14s.opus",
+      "note": 104,
+      "loNote": 104,
+      "hiNote": 104,
+      "rootNote": 104,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_14h.opus",
+      "note": 104,
+      "loNote": 104,
+      "hiNote": 104,
+      "rootNote": 104,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_15s.opus",
+      "note": 105,
+      "loNote": 105,
+      "hiNote": 105,
+      "rootNote": 105,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_15h.opus",
+      "note": 105,
+      "loNote": 105,
+      "hiNote": 105,
+      "rootNote": 105,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_16s.opus",
+      "note": 106,
+      "loNote": 106,
+      "hiNote": 106,
+      "rootNote": 106,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_16h.opus",
+      "note": 106,
+      "loNote": 106,
+      "hiNote": 106,
+      "rootNote": 106,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_17s.opus",
+      "note": 107,
+      "loNote": 107,
+      "hiNote": 107,
+      "rootNote": 107,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_17h.opus",
+      "note": 107,
+      "loNote": 107,
+      "hiNote": 107,
+      "rootNote": 107,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_18s.opus",
+      "note": 108,
+      "loNote": 108,
+      "hiNote": 108,
+      "rootNote": 108,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "chime_18h.opus",
+      "note": 108,
+      "loNote": 108,
+      "hiNote": 108,
+      "rootNote": 108,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    }
+  ],
+  "generatedAt": "2026-07-24T03:48:20Z"
+}
